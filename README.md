@@ -5,4 +5,4 @@
 dependencies {
 	        implementation 'com.github.Achenglove:NumberProgressAndSeekBar:v1.0'
 	}
-  ``
+``
